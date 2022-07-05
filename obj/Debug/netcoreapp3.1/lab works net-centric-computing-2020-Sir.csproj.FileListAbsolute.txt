@@ -1,0 +1,8 @@
+D:\BSCCSIT books\6th semester\pdf\Net centric computing\lab works net-centric-computing-2020-Sir\obj\Debug\netcoreapp3.1\lab works net-centric-computing-2020-Sir.csprojAssemblyReference.cache
+D:\BSCCSIT books\6th semester\pdf\Net centric computing\lab works net-centric-computing-2020-Sir\obj\Debug\netcoreapp3.1\lab works net-centric-computing-2020-Sir.AssemblyInfoInputs.cache
+D:\BSCCSIT books\6th semester\pdf\Net centric computing\lab works net-centric-computing-2020-Sir\obj\Debug\netcoreapp3.1\lab works net-centric-computing-2020-Sir.AssemblyInfo.cs
+D:\BSCCSIT books\6th semester\pdf\Net centric computing\lab works net-centric-computing-2020-Sir\obj\Debug\netcoreapp3.1\lab works net-centric-computing-2020-Sir.csproj.CoreCompileInputs.cache
+D:\BSCCSIT books\6th semester\pdf\Net centric computing\lab works net-centric-computing-2020\obj\Debug\netcoreapp3.1\lab works net-centric-computing-2020-Sir.csprojAssemblyReference.cache
+D:\BSCCSIT books\6th semester\pdf\Net centric computing\lab works net-centric-computing-2020\obj\Debug\netcoreapp3.1\lab works net-centric-computing-2020-Sir.AssemblyInfoInputs.cache
+D:\BSCCSIT books\6th semester\pdf\Net centric computing\lab works net-centric-computing-2020\obj\Debug\netcoreapp3.1\lab works net-centric-computing-2020-Sir.AssemblyInfo.cs
+D:\BSCCSIT books\6th semester\pdf\Net centric computing\lab works net-centric-computing-2020\obj\Debug\netcoreapp3.1\lab works net-centric-computing-2020-Sir.csproj.CoreCompileInputs.cache
